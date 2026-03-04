@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Md+Zihan+Khan+Majlish;Finance+%7C+Econ+%7C+CS+%40+Schulich;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B;I%27m+Md+Zihan+Khan+Majlish;Finance+%7C+Econ+%7C+CS+%40+Schulich;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ---
@@ -60,11 +60,11 @@ I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mzkmajlish&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mzkmajlish&theme=tokyonight&border_radius=10&fire=DD2727)](https://git.io/streak-stats)
 
-[![Zihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzkmajlish&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/mzkmajlish)
+<img src="https://github-readme-stats.vercel.app/api?username=mzkmajlish&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" alt="Zihan's GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzkmajlish&layout=compact&theme=tokyonight&border_radius=10)](https://github.com/mzkmajlish)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkmajlish&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 
 </div>
 
@@ -74,7 +74,7 @@ I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzkmajlish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzihan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxhan123@schulich.yorku.ca)
 
 </div>
