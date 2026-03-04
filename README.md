@@ -6,29 +6,30 @@
 
 ## 🧑‍💻 About Me:
 
-I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York University** studying **Finance, Economics, and Computer Science**. I'm passionate about combining quantitative skills with financial markets to build smarter, data-driven systems.
+I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York University** studying **Finance, Economics, and Computer Science**. I'm passionate about combining my quantitative and technical skills across different domains, and currently drawn to fields that sit at the intersection of computer science and finance — where code meets capital. I'm keeping my options open and following what genuinely excites me.
 
 - 🎓 Finance, Economics & Computer Science @ **Schulich, York University**
-- 📈 Deeply interested in **algorithmic trading, quant finance & markets**
-- 💡 Always building projects at the intersection of **code and capital**
+- 💡 Drawn to the space where **technology and finance collide**
+- 🔍 Exploring opportunities across **quant, fintech, and beyond**
 - 📬 Reach me at: **zxhan123@schulich.yorku.ca**
 
 ---
 
 ## 🌟 Fun Fact:
 
-> *My goal isn't just to understand financial markets — it's to build systems that beat them. I believe financial independence is the ultimate form of freedom.*
+> *Freedom isn't given — it's engineered. I believe the most powerful thing a person can build isn't an app or a portfolio, but a life where their time is entirely their own. That's the goal. Everything else is just the path there.*
 
 ---
 
 ## 🚀 Interests:
 
-- 📊 Algorithmic Trading & Quantitative Finance
+- 💰 Financial Independence & Wealth Building
 - 💹 Investing & Financial Markets
 - 🤖 Machine Learning & Computer Science
-- 💰 Financial Independence & Wealth Building
 - 🌐 Web Development
 - ⚡ Hackathons & Competitions
+- 📊 Algorithmic Trading & Quantitative Finance
+- 📱 Doom Scrolling
 
 ---
 
@@ -38,6 +39,10 @@ I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
