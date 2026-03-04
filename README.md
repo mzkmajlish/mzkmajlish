@@ -17,7 +17,7 @@ I'm **Md Zihan Khan Majlish**, a student at **Schulich School of Business, York 
 
 ## 🌟 Fun Fact:
 
-> *Freedom isn't given — it's engineered. I believe the most powerful thing a person can build isn't an app or a portfolio, but a life where their time is entirely their own. That's the goal. Everything else is just the path there.*
+> *When I'm not crunching numbers or writing code, you'll probably find me on Fortnite. Everyone needs a vice.*
 
 ---
 
